@@ -172,3 +172,6 @@ umount -R /mnt
 
 reboot
 ```
+
+>[!notes] Call-out
+Text
